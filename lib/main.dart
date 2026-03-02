@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dua.dart'; // Mengimpor file halaman kedua
+import 'dua.dart'; 
 
 void main() {
   runApp(const MyApp());
